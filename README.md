@@ -10,6 +10,6 @@
 ## cosas que podras encontrar dentro de la ventana del chat:
 
 #### * podras ver la hora de envio y de recibido el mensaje.
-#### *podremos poner nuestro nombre de ususario para diferenciarnos de los demas clientes.
-#### *tambien se puso color a los jtextArea.
+#### *podras poner tu nombre de ususario para diferenciarte de los demas clientes.
+#### *tambien se coloco el nombre de usuario con un color diferente  que del mensaje para poder diferenciarse.
 #### *podras guardar el historial del chat.
